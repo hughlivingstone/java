@@ -1,8 +1,4 @@
-# java
-Spring Boot example applications can be found in the following directory.
-- java/spring
-
-# Spring Boot Applications
+# java/spring Spring Boot Applications
 The Spring boot applications are all explained at:
 - http://hughlivingstone.co.uk
 
