@@ -7,15 +7,19 @@ The Spring boot applications are all explained at:
 - http://hughlivingstone.co.uk
 
 ## spring-boot-jpa-hibernate
-This explains all the code and configuration required to get database access working with Spring Boot. A working sample application is also included.
+This is a Spring boot app with DB access using JPA and Hibernate. 
+
+Full details at:
 - http://hughlivingstone.co.uk/2017/09/28/basic-spring-boot-jpa-hibernate-tutorial/
 
 ## spring-boot-rest
-This shows how to build a Spring boot REST application with database access using Hibernate.
+This is a Spring boot REST app with database access using Hibernate.
+
+Full details at:
 - http://hughlivingstone.co.uk/2017/10/10/spring-boot-rest-service-tutorial/
 
 ## spring-boot-rest-secure	
-This builds on the Spring boot REST application by adding a layer of security.
+This is a Spring boot REST app with a layer of security.
+
+Full details at:
 - http://hughlivingstone.co.uk/2017/11/12/securing-a-spring-boot-rest-app-tutorial/
-
-
